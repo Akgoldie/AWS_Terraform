@@ -5,5 +5,5 @@ def get_bucket_name(repository_name):   #Create Function
     return bucket_name      #return bucket_name
 
 
-repository_name = "arun-is-a-good-bad-boy"  #input
+repository_name = "arun-is-a-very-bad-boy"  #input
 print(get_bucket_name(repository_name))     #call the function
