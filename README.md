@@ -1,5 +1,5 @@
 
-## Social Media
+## Social Medias 
 
 [GitHub](https://github.com/Akgoldie) |
 [LinkedIn](https://www.linkedin.com/in/akgoldie/) |
